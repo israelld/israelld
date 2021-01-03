@@ -13,7 +13,7 @@
 
 <br>
 
-&nbsp<img align="left" height="42" src="https://media.giphy.com/media/Scoi0yrq3Km4iHkTQJ/giphy.gif"/>
+<img align="left" height="42" src="https://media.giphy.com/media/Scoi0yrq3Km4iHkTQJ/giphy.gif"/>
 <div>
 <code>
 <a href="https://www.instagram.com/israel.ld/">
