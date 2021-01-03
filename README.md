@@ -8,7 +8,7 @@
 
 <img align="left" height="42" src="https://media.giphy.com/media/ovUOTZJg6zNFdySybT/giphy.gif"/>
 <div>
-&nbsp&nbspI don't know what to put here! 😐☕
+&nbsp&nbspI don't know what to put here!☕
 </div>
 
 <br>
