@@ -1,4 +1,5 @@
 <img align="left" height="42" src="https://media.giphy.com/media/sH5dIth0UMhiPcRSGK/giphy.gif"/>
+
 <div>
 &nbsp&nbspHi, I'm Israel. <br>
 </div>
@@ -18,7 +19,7 @@
 <code>
 <a href="https://www.instagram.com/israel.ld/">
 <img height="25" src="https://www.flaticon.com/svg/static/icons/svg/1400/1400829.svg"></a>
- &nbsp 
- <a href="https://www.linkedin.com/in/israellimadias"><img height="25" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384030.svg">
-  </code>
+&nbsp 
+<a href="https://www.linkedin.com/in/israellimadias"><img height="25" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384030.svg">
+</code>
 </div>
