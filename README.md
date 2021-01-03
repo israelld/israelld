@@ -12,7 +12,7 @@
 </div>
 
 <br>
-<div>&nbsp</div>
+
 <img align="left" height="42" src="https://media.giphy.com/media/Scoi0yrq3Km4iHkTQJ/giphy.gif"/>
 <div>
 <code>
