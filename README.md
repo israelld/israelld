@@ -18,7 +18,7 @@
 &nbsp
 <code>
 <a href="https://www.instagram.com/israel.ld/">
-<img height="25" src="https://www.flaticon.com/svg/static/icons/svg/1400/1400829.svg"></a>
+&nbsp<img height="25" src="https://www.flaticon.com/svg/static/icons/svg/1400/1400829.svg"></a>
 &nbsp 
 <a href="https://www.linkedin.com/in/israellimadias"><img height="25" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384030.svg">
 </code>
