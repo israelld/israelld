@@ -1,7 +1,7 @@
 <img align="left" height="42" src="https://media.giphy.com/media/sH5dIth0UMhiPcRSGK/giphy.gif"/>
 
 <div>
-&nbsp&nbspHi, I'm Israel. <br>
+&nbsp&nbspHey there, I'm Israel. <br>
 </div>
 
 <br>
