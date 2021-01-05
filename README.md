@@ -13,10 +13,6 @@
 
 <br>
 
-<summary> 😇 <b>My Github Stats</b> </summary>
-
-<br>
-
 <img align="left" height="42" src="https://media.giphy.com/media/Scoi0yrq3Km4iHkTQJ/giphy.gif"/>
 <div>
 <code>
