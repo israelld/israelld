@@ -18,6 +18,6 @@
 <code>
 
 <a href="https://www.linkedin.com/in/israellimadias">
-<img height="25" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384030.svg">
+<img height="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 </code>
 </div>
