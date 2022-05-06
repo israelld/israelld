@@ -22,6 +22,8 @@
 </code>
 </div>
 
+<br>
+  
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=israelld&count_private=true&layout=compact&theme=nightowl" alt = "Israel's Most Used Languages">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=israelld&count_private=false&layout=compact&theme=nightowl" alt = "Israel's Most Used Languages">
 </p>  
