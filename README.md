@@ -21,3 +21,7 @@
 <img height="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 </code>
 </div>
+
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=israelld&count_private=true&layout=compact&theme=nightowl" alt = "Israel's Most Used Languages">
+</p>  
