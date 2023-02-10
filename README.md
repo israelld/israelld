@@ -13,10 +13,9 @@
 
 <br>
 
-<img align="left" height="42" src="https://media.giphy.com/media/Scoi0yrq3Km4iHkTQJ/giphy.gif"/>
 <div>
+<img align="left" height="42" src="https://media.giphy.com/media/Scoi0yrq3Km4iHkTQJ/giphy.gif"/>
 <code>
-
 <a href="https://www.linkedin.com/in/israellimadias">
 <img height="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 </code>
