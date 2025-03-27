@@ -27,3 +27,4 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=israelld&count_private=false&layout=compact&theme=nightowl" alt = "Israel's Most Used Languages">
 </p>  
 -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipeneiva&show_icons=true&locale=en&layout=compact" alt="filipeneiva" /></p>
